@@ -33,4 +33,12 @@ reads a dataset, preprocesses it, trains the models, and evaluates their perform
   ![image](https://github.com/user-attachments/assets/14a27fb7-8408-4939-b85e-10ab62608443)
 
 
-  
+## Team Members 👥:
+
+<p>
+  <img src="https://img.shields.io/badge/Lama%20Naser-blue?style=for-the-badge" alt="Lama Naser">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Maha%20Mali-yellow?style=for-the-badge" alt="Maha Mali">
+</p>  
