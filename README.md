@@ -25,13 +25,6 @@ reads a dataset, preprocesses it, trains the models, and evaluates their perform
   
 > python main.py ./spambase.csv
 
-  ### Results for this dataset
-  ![image](https://github.com/user-attachments/assets/14aa7337-2da6-46ce-9193-cdb62265846f)
-
-
-
-  ![image](https://github.com/user-attachments/assets/14a27fb7-8408-4939-b85e-10ab62608443)
-
 
 ## Team Members 👥:
 
